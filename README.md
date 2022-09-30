@@ -9,7 +9,7 @@ Do you miss how sleek the Steam Next Fest demo used to look? Dwell no more, this
 
 # Installation
 
-1. Download the zip from [Releases](/releases)
+1. Download the zip from [Releases](https://github.com/leiftiger/dome-keeper-demo-rock-textures/releases)
 2. Copy the contents of `Mod Loader` (`patch.gd` and `patch.pck`) to your game's installation folder (Right click the game => Properties => Local Files => Browse)
 3. Set your game's launch options to `--script patch.gd` (Right click the game => Properties => General => Launch Options)
 4. Copy the `Mods` directory to `%AppData%/Godot/app_userdata/Dome Keeper/`
