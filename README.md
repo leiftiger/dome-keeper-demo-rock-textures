@@ -5,7 +5,6 @@ Do you miss how sleek the Steam Next Fest demo used to look? Dwell no more, this
 |Before|After|
 |------|-----|
 |![Before](/pic_before.png)|![After](/pic_after.png)|
---------------
 
 # Installation
 
