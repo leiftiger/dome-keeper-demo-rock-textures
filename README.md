@@ -23,6 +23,7 @@ Since this repo contains no mod source code, vigilant players may want checksums
 
 |File|MD5|SHA256|
 |---------------------------|----------------------------------|------------------------------------------------------------------|
+|demo_rock_textures_41.5.zip|`1eb36c82c1857a1727dcd79b17c679df`|`0f4f15fa2bd827017e9accad40f9139f8fe99dddce57575cc946d9133801f162`|
 |demo_rock_textures_41.4.zip|`1366052964a9453d06c6417b6250433d`|`80a72c8f1921daf697e12638d0dfd6e5ed259599a5ca993f6592ed4e4d9b6a00`|
 |demo_rock_textures_41.3.zip|`95bc6d6e38f1762a82ed6e68ad0da36c`|`53ed7eef5b72f0e6cdc128e751100deab49b96e492860c0fd060117edd8a9d4b`|
 |demo_rock_textures_41.2.zip|`1df10bbd66716b133d676b07f731bbf8`|`8b49e821fb9cb3908565553a59d1741703259b34db1c934f432773ab1d164a2f`|
