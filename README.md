@@ -22,7 +22,8 @@ Game updates may break this mod, you may need to download new versions of the mo
 Since this repo contains no mod source code, vigilant players may want checksums for reference.
 
 |File|MD5|SHA256|
-|---------------------------|----------------------------------|------------------------------------------------------------------|
+|--------------------------|----------------------------------|------------------------------------------------------------------|
+|demo_rock_textures_1.5.zip|`4d9b694fdf2f17338e46c1236bb641cf`|`39f32958a53f7f4ae4850e0be75a4481d5ecd46668025b2ad5b276449221e264`|
 |demo_rock_textures_41.5.zip|`1eb36c82c1857a1727dcd79b17c679df`|`0f4f15fa2bd827017e9accad40f9139f8fe99dddce57575cc946d9133801f162`|
 |demo_rock_textures_41.4.zip|`1366052964a9453d06c6417b6250433d`|`80a72c8f1921daf697e12638d0dfd6e5ed259599a5ca993f6592ed4e4d9b6a00`|
 |demo_rock_textures_41.3.zip|`95bc6d6e38f1762a82ed6e68ad0da36c`|`53ed7eef5b72f0e6cdc128e751100deab49b96e492860c0fd060117edd8a9d4b`|
